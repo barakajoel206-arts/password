@@ -1,1 +1,1 @@
-This file is all about generating a random password
+This file is all about generating a random password.
